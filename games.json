@@ -1,0 +1,16 @@
+{
+  "stardew": {
+    "name": "Stardew Valley",
+    "exec": "C:\\Program Files (x86)\\GOG Galaxy\\Games\\Stardew Valley\\StardewModdingAPI.exe",
+    "icon": "assets/icons/stardewvalley.png",
+    "video": "assets/videos/stardew.mp4"
+    
+  },
+  "paleo": {
+    "name": "Paleo Pines",
+    "exec": "C:\\Amazon Games\\Library\\Paleo Pines\\Paleo Pines.exe",
+    "icon": "assets/icons/paleoines.png",
+    "video": "assets/videos/paleo.mp4"
+    
+  }
+}
